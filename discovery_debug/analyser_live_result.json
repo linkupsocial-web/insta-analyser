@@ -1,0 +1,601 @@
+{
+  "accounts": [
+    {
+      "account": "digistreet.media",
+      "status": "ok",
+      "note": "login prompt text present, but 12 reels with views loaded; treated as a full grid",
+      "reels_found": 12,
+      "reels_ranked": 7,
+      "educational_kept": 4,
+      "promotional_kept": 3,
+      "notes": []
+    },
+    {
+      "account": "digidir_",
+      "status": "ok",
+      "note": "login prompt text present, but 12 reels with views loaded; treated as a full grid",
+      "reels_found": 12,
+      "reels_ranked": 8,
+      "educational_kept": 0,
+      "promotional_kept": 1,
+      "notes": []
+    }
+  ],
+  "selected_reels": [
+    {
+      "shortcode": "DfwrX3XBlpj",
+      "url": "https://www.instagram.com/reel/DfwrX3XBlpj/",
+      "account": "digistreet.media",
+      "rank": 1,
+      "score": 6.0796,
+      "score_basis": "views",
+      "flags": [],
+      "views": 1741,
+      "likes": 22,
+      "comments": 0,
+      "engagement_rate": 0.01263641585295807,
+      "age_days": 4,
+      "caption": "Not every influencer with millions of followers is the right fit for your brand. 👀\n\nBecause views don’t always mean sales!\n\nAt DigiStreet, we believe in finding the RIGHT INFLUENCER, matching the right audience, choosing the right creators and creating content that delivers real results. 🎯\n\nFrom Nano to Micro influencers, we make every collaboration count.\n\nWant to make your next influencer campaign smarter?\n\n📩 DM “INFLUENCER” and let’s create something impactful!\n\n#InfluencerMarketing #CreatorMarketing #DigitalMarketing #BrandCollaborations #InfluencerCampaigns",
+      "transcript": "एक इंप्रूवेंशर के पास दस लाग फोलोवर्स थे ब्रान ने पैसा लगा, और सेल्स, जीरो क्योंकी फोलोवर्स का नमबर सब कुछ नहीं होता विल कुश्टन है, क्या उनकी अडियन्स आपकी कुस्टमर है? हम पहले अडियन्स माथ चेक करते हैं",
+      "transcript_status": "ok",
+      "language": "hi",
+      "label": "educational",
+      "categories": [
+        "educational",
+        "promotional"
+      ],
+      "label_probability": 0.5669,
+      "has_cta": 0.3853,
+      "hook_score": 2.145,
+      "classify_notes": [
+        "mixed"
+      ],
+      "used_in_report": true
+    },
+    {
+      "shortcode": "DfmK3FDM15U",
+      "url": "https://www.instagram.com/reel/DfmK3FDM15U/",
+      "account": "digistreet.media",
+      "rank": 2,
+      "score": 1.4964,
+      "score_basis": "views",
+      "flags": [
+        "unverified"
+      ],
+      "views": 606,
+      "likes": null,
+      "comments": null,
+      "engagement_rate": null,
+      "age_days": 8,
+      "caption": "SEO isn’t magic. It’s strategy, consistency, and the right execution. 🚀\n\nWrong keywords, slow websites, and content gaps could be holding your business back from ranking higher on Google.\n\nThe right SEO strategy can make all the difference. 📈\n\nWant to know where your website stands?\n\n💬 Comment ”SEO”and get your FREE SEO CHECK!\n\n#SEO #DigitalMarketing #SEOStrategy #OrganicGrowth #GoogleRanking",
+      "transcript": "गुविल के पेछ तूपे हो? अखला, कुस्टमर के लिया आप एकसिस्ट ही नहीं गरते? एसी हो में 3 कोमन मिस्टेक्स होती है। वन, रोंग की वर्ज. तू, स्लो वेप्साइत. तू, कुन्तेंट जो कुस्टमर के कुस्टमर के अनसर ही नहीं देता. हम नहीं तीनो फिक्स की है. सिरका पैंस की आवरेज पूसिशन सोला से नावपे आई. और क्लिक्स सब तासी परसें बहें. जेबिम रुक के सेशन्स पाथ सो बाएस परसेंट अप. एसी हो माजक नहीं है. राइट प्रोसेस और पेछन्स है. कोमेंट करो एसी हो.",
+      "transcript_status": "ok",
+      "language": "hi",
+      "label": "educational",
+      "categories": [
+        "educational"
+      ],
+      "label_probability": 0.9428,
+      "has_cta": 0.993,
+      "hook_score": 2.389,
+      "classify_notes": [],
+      "used_in_report": true
+    },
+    {
+      "shortcode": "De4CWcAMTnI",
+      "url": "https://www.instagram.com/reel/De4CWcAMTnI/",
+      "account": "digistreet.media",
+      "rank": 3,
+      "score": 1.4231,
+      "score_basis": "views",
+      "flags": [],
+      "views": 1039,
+      "likes": 41,
+      "comments": 7,
+      "engagement_rate": 0.04619826756496631,
+      "age_days": 26,
+      "caption": "Different streets, same crazy squad! 🤪⛰️ StreetRecharge 2026 was a whole VIBE! 💥💛\n\nTeam DigiStreet took a break from the screens, left the deadlines behind, and traded office vibes for mountain highs! 🌲✨ From crazy memories to endless laughter, StreetRecharge 2026 in Mussoorie was all about celebrating our people, our bond, and the magic we create together. 🫶🏻\n\nBecause at DigiStreet, we don’t just create together, we grow, vibe, and recharge together! 🚀\n\n#DigiStreetMedia #StreetRecharge2026 #TeamDigiStreet #MountainVibes #OfficeDiaries",
+      "transcript": "Tell me how I got so shameless I'm on the way to take my things and goddammit I'm so audacious",
+      "transcript_status": "music_or_lyrics",
+      "language": "en",
+      "label": "promotional",
+      "categories": [
+        "promotional"
+      ],
+      "label_probability": 0.8155,
+      "has_cta": 0.2919,
+      "hook_score": 2.491,
+      "classify_notes": [
+        "caption_only"
+      ],
+      "used_in_report": true
+    },
+    {
+      "shortcode": "DfemwUyMQX5",
+      "url": "https://www.instagram.com/reel/DfemwUyMQX5/",
+      "account": "digistreet.media",
+      "rank": 4,
+      "score": 1.4003,
+      "score_basis": "views",
+      "flags": [
+        "unverified"
+      ],
+      "views": 665,
+      "likes": null,
+      "comments": null,
+      "engagement_rate": null,
+      "age_days": 11,
+      "caption": "Who said Diwali celebrations are only about lights and sweets? We bring the full-on vibes! 🪔💃✨\n\nA little madness, lots of laughter, endless dancing and memories with Team DigiStreet. 💛\n\nThis is how we celebrate together!\n\n#DigiStreetMedia #DiwaliCelebration #OfficeDiwali #WorkplaceVibes #Diwali2026",
+      "transcript": "Are you ready to fly? Come on everybody, and fly with me! The giant",
+      "transcript_status": "music_or_lyrics",
+      "language": "en",
+      "label": "other",
+      "categories": [],
+      "label_probability": 0.7665,
+      "has_cta": 0.2155,
+      "hook_score": 2.465,
+      "classify_notes": [
+        "caption_only"
+      ],
+      "used_in_report": false
+    },
+    {
+      "shortcode": "DdjRCE3PXRO",
+      "url": "https://www.instagram.com/reel/DdjRCE3PXRO/",
+      "account": "digistreet.media",
+      "rank": 5,
+      "score": 0.9383,
+      "score_basis": "views",
+      "flags": [],
+      "views": 1032,
+      "likes": 44,
+      "comments": 4,
+      "engagement_rate": 0.046511627906976744,
+      "age_days": 59,
+      "caption": "Marketing has never been just about being seen. It’s about being understood, remembered, and creating meaningful connections.\n\nIn the latest episode of D-TALKS by DigiStreet Media, we explore the RISE Framework — Reach, Influence, Support, and Evaluation, and how creativity plays a role at every stage.\n\nBecause creativity is a means to connect. And at the core of any connection is a human-first approach!\n\n[RISE Framework, Reach Influence Support Evaluation, marketing framework, creative marketing, creativity in marketing, marketing strategy, human-first marketing, D-TALKS by DigiStreet Media, DigiStreet Media]\n.\n.\n#DTalks #RISEFramework  #DarpanSharma #CreativeMarketing #HumanFirst",
+      "transcript": "अल वोई बाट प्यारेश महबत मतलव दू माईना एक या लग ताईक है आप वाज जो सर बी तूभी ब्राज में लोग बी तूभी बी बी तूभी यार देख ये तो हम लोग का तरीका है बी तूभी बी बी तूभी अगड देख हम बाद किसे कर रहे हैं वोई बाज वोई लग पर आप माईद ऑाव लोग का तरीका आगा नगी आप ओर सुगते है अथै छीग को अग़िलट के नहींट सद्पाल नाव्याय करेटा वो जो जो जवान लिए वो सब नहीं ता जी तो को बास बेईजाम् अग़ा वो गर नावायाट मैंट narration अनगो जे ऐसे वोगो देखाए मोडिए लिए को प्रेजोंनें ज़ावी कुछांगे लिए लग क्या दिए इंग़ा की सब ड़़ा बगी मोज़ा प्रटी सब नहींने कि नहीं नहीं भी वोगलाँन अप्रभी खाँची न कर सब आँबाद्ले ने बिवाद सब आईताई चाँजी छड़ार्दिति की आप आप एस मैं कि मैं त्याई ओवच भाज़ा मैंट्दर बाद अपकोई गाडी करीदने जाओ, अब भाई दिल प्रीट यून बेस्ट अप दवे पोसिबल गड़ तू, वैन तू तेख यूर कार तू सर्विस, जब हम सर्विस को सेल की तरा करना शुरू कर लेंगे ना, उसको मैं अच्छल सपोड बोल्त।, अप दे आप दे आप आप ए को समते आप ना वगट ना आप यूर कर अच्छल सपोड ken उ मैं लावो प्रीट दिल और विस धर ना वर मैं ज़े चान तुद और सका हूँसे तुद बलग बफात टव्� wet",
+      "transcript_status": "ok",
+      "language": "hi",
+      "label": "educational",
+      "categories": [
+        "educational"
+      ],
+      "label_probability": 0.9891,
+      "has_cta": 0.1005,
+      "hook_score": 2.415,
+      "classify_notes": [],
+      "used_in_report": true
+    },
+    {
+      "shortcode": "DfemdbvsaBT",
+      "url": "https://www.instagram.com/reel/DfemdbvsaBT/",
+      "account": "digistreet.media",
+      "rank": 6,
+      "score": 0.8255,
+      "score_basis": "views",
+      "flags": [],
+      "views": 392,
+      "likes": 11,
+      "comments": 0,
+      "engagement_rate": 0.02806122448979592,
+      "age_days": 11,
+      "caption": "Pause. Reflect. Light up. Move forward. ✨🪔\n\nEvery light brings a new possibility, every pause gives us a moment to reflect, and every new beginning is a reason to shine brighter.\n\nThis Diwali, let’s celebrate the light within us and keep moving towards brighter possibilities.\n\nHappy Diwali from Team DigiStreet Media! 💛\n\n#HappyDiwali #DigiStreetMedia #Diwali2026 #PauseLightUpGo #FestivalOfLights",
+      "transcript": "You",
+      "transcript_status": "empty",
+      "language": "en",
+      "label": "other",
+      "categories": [],
+      "label_probability": 0.5582,
+      "has_cta": 0.5075,
+      "hook_score": 2.49,
+      "classify_notes": [
+        "caption_only",
+        "low_probability"
+      ],
+      "used_in_report": false
+    },
+    {
+      "shortcode": "DfMCqp2MxIt",
+      "url": "https://www.instagram.com/reel/DfMCqp2MxIt/",
+      "account": "digistreet.media",
+      "rank": 7,
+      "score": 0.7013,
+      "score_basis": "views",
+      "flags": [],
+      "views": 426,
+      "likes": 12,
+      "comments": 0,
+      "engagement_rate": 0.028169014084507043,
+      "age_days": 18,
+      "caption": "Your website is your brand’s digital first impression. Make it count.\n\nA great website builds credibility, enhances user experience and turns visitors into potential customers.\n\nIs your website ready to perform?\n\nGet your FREE Website Review with DigiStreet Media.\n\n#DigiStreetMedia #WebsiteDesign #WebsiteDevelopment #DigitalMarketing #WebsiteAudit",
+      "transcript": "अपकी वेप्साइत आपका बेस्ट सेल्स्मन है यह सबसे स्लोंप्लोई? मोस्ट विसनिसस की वेप्साइत पस एक औन लाईं विसिटंगार है स्लों, आउटेटर, और मोभाईल पे ब्रोकिन, कस्टमर आता है, और लीव कर देपा है हमने प्रवेख, सुदीर पावर, हेलोनिक्स, जैकसं सोलर, और जेदीम बससे जैसे ब्रान्स की वेप्साइत बनाई है हर वेप्साइत का एक सिंपल्ट रू, पास्ट्लोडिं, क्लीर मेसज और हर पेज पे एक स्ट्रोंग, वेप्साइत जो सिब सुंदर नहीं दिकती, रिस्टाल्स देपी है, प्री वेप्साइत रिव चाही, दीम करो वेप्साइत.",
+      "transcript_status": "ok",
+      "language": "hi",
+      "label": "promotional",
+      "categories": [
+        "educational",
+        "promotional"
+      ],
+      "label_probability": 0.6075,
+      "has_cta": 0.6334,
+      "hook_score": 2.432,
+      "classify_notes": [
+        "mixed"
+      ],
+      "used_in_report": true
+    },
+    {
+      "shortcode": "Dfrg5PQxuE0",
+      "url": "https://www.instagram.com/reel/Dfrg5PQxuE0/",
+      "account": "digidir_",
+      "rank": 1,
+      "score": 5.9217,
+      "score_basis": "views",
+      "flags": [],
+      "views": 12600,
+      "likes": 109,
+      "comments": 2,
+      "engagement_rate": 0.008809523809523809,
+      "age_days": 6,
+      "caption": "When Microsoft takes a break, but you’re still expected to look busy. 😂\n\nThe team is online, the office is open, but productivity is currently experiencing technical difficulties! 🤣\n.\n.\n.\n.\n.\nMicrosoft Down, Microsoft Outage, Microsoft 365 Down, Outlook Not Working, Microsoft Teams Down, Office Humour, Corporate Comedy, Funny Office Reel, Office Memes, Agency Life, Digital Marketing Agency, Workplace Humour, Corporate Memes, Office Culture, Office Fun, Work From Office, Productivity Problems, Employee Humour, Funny Workplace Moments, Digital Agency Life, Team Bonding, DigiDir",
+      "transcript": "Oye hoi kya seen hai, teri walk metaan hai, mere jaai ki tapri pe sabki nazar jaan hai Tuhi laa de moor ka",
+      "transcript_status": "ok",
+      "language": "en",
+      "label": "other",
+      "categories": [],
+      "label_probability": 0.9967,
+      "has_cta": 0.0363,
+      "hook_score": 2.338,
+      "classify_notes": [
+        "not_marketing"
+      ],
+      "used_in_report": false
+    },
+    {
+      "shortcode": "DfR-1inRZ-z",
+      "url": "https://www.instagram.com/reel/DfR-1inRZ-z/",
+      "account": "digidir_",
+      "rank": 2,
+      "score": 2.01,
+      "score_basis": "views",
+      "flags": [],
+      "views": 6984,
+      "likes": 92,
+      "comments": 6,
+      "engagement_rate": 0.014032073310423826,
+      "age_days": 16,
+      "caption": "Some got lucky. Some got character development. 😭🪔\n\nThis Diwali week, the universe had favourites… and it wasn't even trying to hide it. \nWhat was your Diwali Gift?😂🎁\n.\n.\n.\n.\n[Diwali office celebration, Diwali gifts, office Diwali, funny office reels, Diwali games, office fun, workplace humor, corporate Diwali, agency life, team bonding, festive vibes, digital marketing agency, digital marketing company, noida, delhi NCR]\n.\n#officediwali #OfficeFun #AgencyLife #Diwali2026 #DigiDir",
+      "transcript": "जल्वा या हमारा या दोड तास्दे चेर्यान न मतलबे लिए न दाग्यान लोग करी को तक्लीफ नी लिए न दी और एक पार तोर बताम अपको मेरे भाई आमारी किस्मत खराब है ते तो नहीं अपता है नलोग जिया मोसम तो एसा लगरा तिल काटन काटन होगा",
+      "transcript_status": "ok",
+      "language": "hi",
+      "label": "other",
+      "categories": [],
+      "label_probability": 0.9756,
+      "has_cta": 0.0934,
+      "hook_score": 2.377,
+      "classify_notes": [
+        "not_marketing"
+      ],
+      "used_in_report": false
+    },
+    {
+      "shortcode": "DfUiFqXxpDo",
+      "url": "https://www.instagram.com/reel/DfUiFqXxpDo/",
+      "account": "digidir_",
+      "rank": 3,
+      "score": 1.663,
+      "score_basis": "views",
+      "flags": [],
+      "views": 5595,
+      "likes": 71,
+      "comments": 10,
+      "engagement_rate": 0.014477211796246649,
+      "age_days": 15,
+      "caption": "🚨 EMERGENCY MEETING ALERT! 😂\nThe manager has called an urgent meeting to discuss the situation! 👀\nWho do you think won this meeting – HR or the employees?\n.\n.\n.\n.\nOffice Humour, Corporate Humour, Funny Office Moments, Workplace Fun, Office Culture, Employee Engagement, HR Policies, Office Dress Code, Ethnic Wear at Work, Corporate Life in India, Office Team Bonding, Funny HR Moments, Workplace Conversations, Office Meetings, Office Memes, Corporate Memes, Employee Life, Team DigiDir, Noida, digital marketing agency life, diwali dress code, festive season",
+      "transcript": "",
+      "transcript_status": "empty",
+      "language": "hi",
+      "label": "other",
+      "categories": [],
+      "label_probability": 0.8331,
+      "has_cta": 0.0873,
+      "hook_score": 2.484,
+      "classify_notes": [
+        "caption_only",
+        "not_marketing"
+      ],
+      "used_in_report": false
+    },
+    {
+      "shortcode": "DfARwIORelz",
+      "url": "https://www.instagram.com/reel/DfARwIORelz/",
+      "account": "digidir_",
+      "rank": 4,
+      "score": 1.1339,
+      "score_basis": "interactions",
+      "flags": [
+        "possibly_inflated"
+      ],
+      "views": 30200,
+      "likes": 84,
+      "comments": 8,
+      "engagement_rate": 0.0030463576158940397,
+      "age_days": 23,
+      "caption": "Behind every successful campaign is a team that has probably lost its sanity! 🎃😂\nA little madness, unlimited creativity and a whole lot of teamwork. That’s how we make marketing magic happen at DigiDir! 👻\n.\n.\n.\n.\n.\nHalloween office celebration, Halloween at work, funny office videos, office Halloween party, corporate humour, workplace fun, crazy office moments, digital marketing team, digital marketing agency, office team bonding, employee engagement, funny team moments, behind the scenes office, digital marketing agency life, Noida, Delhi NCR, Gurgaon, DigiDir",
+      "transcript": "Well, when the sun goes down, the moon warms up Oh! Into a teenage group of up I cruise through the city in a wrong street",
+      "transcript_status": "ok",
+      "language": "en",
+      "label": "other",
+      "categories": [],
+      "label_probability": 0.7859,
+      "has_cta": 0.0371,
+      "hook_score": 2.471,
+      "classify_notes": [],
+      "used_in_report": false
+    },
+    {
+      "shortcode": "DfZ2sy7xlr4",
+      "url": "https://www.instagram.com/reel/DfZ2sy7xlr4/",
+      "account": "digidir_",
+      "rank": 5,
+      "score": 1.0,
+      "score_basis": "views",
+      "flags": [],
+      "views": 3132,
+      "likes": 57,
+      "comments": 3,
+      "engagement_rate": 0.019157088122605363,
+      "age_days": 13,
+      "caption": "We’re swapping deadlines for diyas, meetings for mithai, and work mode for all things festive!\n\nThe festive season is officially here, and we’re bringing our own little sparkle to the celebrations. Let the Diwali festivities begin! 💛\n\n.\n.\n.\n.\n\n[Diwali office celebration, Office Diwali festivities, Diwali outfit transition, work to festive look, office wear to ethnic wear, Diwali celebrations at work, festive season vibes, team celebrations, digital marketing agency in Noida.]\n#DigiDir #NoidaAgency #DigitalMarketing #OfficeDiwali",
+      "transcript": "I'm feelin' good",
+      "transcript_status": "empty",
+      "language": "en",
+      "label": "promotional",
+      "categories": [
+        "promotional"
+      ],
+      "label_probability": 0.7088,
+      "has_cta": 0.2883,
+      "hook_score": 2.433,
+      "classify_notes": [
+        "caption_only"
+      ],
+      "used_in_report": true
+    },
+    {
+      "shortcode": "DfUvxsMuhiG",
+      "url": "https://www.instagram.com/reel/DfUvxsMuhiG/",
+      "account": "digidir_",
+      "rank": 6,
+      "score": 0.9027,
+      "score_basis": "views",
+      "flags": [],
+      "views": 3037,
+      "likes": 54,
+      "comments": 11,
+      "engagement_rate": 0.02140270003292723,
+      "age_days": 15,
+      "caption": "Office ka makeover nahi, Tyohaar mode activate ho raha hai! 🪔✨\n.\n.\n.\n.\nDiwali, Office Diwali, Festive Office Decoration, Tyohaar Wala Office, Office Makeover, Office Transformation, Festive Vibes, Diwali Preparations, Workplace Celebrations, Office Festivities, Team Celebrations, Corporate Diwali Celebration, Diwali Decor, Festive Season, Team Bonding, Office Culture, Behind The Scenes, Workplace Vibes, Diwali 2026, DigiDir Celebrations, Noida, Digital marketing agency life, DigiDir\n.\n#DigiDir #digitalmarketing #agency #noida",
+      "transcript": "बलहोर बतिया",
+      "transcript_status": "empty",
+      "language": "hi",
+      "label": "other",
+      "categories": [],
+      "label_probability": 0.5578,
+      "has_cta": 0.0874,
+      "hook_score": 2.424,
+      "classify_notes": [
+        "caption_only"
+      ],
+      "used_in_report": false
+    },
+    {
+      "shortcode": "DfYvhftxv59",
+      "url": "https://www.instagram.com/reel/DfYvhftxv59/",
+      "account": "digidir_",
+      "rank": 7,
+      "score": 0.6577,
+      "score_basis": "views",
+      "flags": [],
+      "views": 2060,
+      "likes": 56,
+      "comments": 5,
+      "engagement_rate": 0.029611650485436892,
+      "age_days": 13,
+      "caption": "The lights are up, the office is glowing, and little surprises are waiting for our amazing team! 🪔✨\nBecause Diwali is not just about decorating spaces, it’s about celebrating the people who make this place special. ❤️\nA little sparkle, a lot of happiness, and memories worth celebrating! 🎁\n.\n.\n.\n.\n.\nDiwali celebration, Diwali at office, office Diwali decoration, Diwali office celebration, Diwali gifts for employees, corporate Diwali celebration, team Diwali celebration, Diwali festivities, festive office vibes, office decoration ideas, employee appreciation, team bonding, workplace celebrations, Diwali surprises, festive season, Diwali 2026, Team DigiDir, DigiDir celebrations, Noida office celebration, corporate festive celebrations, festival of lights, workplace culture, happy Diwali, digital marketing agency",
+      "transcript": "phullanad sajje aajeda yo kar lake bag sonera taareya na pareya veda yo jag magladiya da ke ra mehak hova bichu mehak hova chahak rahiya ne diwara diwara ha phullanad",
+      "transcript_status": "ok",
+      "language": "pa",
+      "label": "other",
+      "categories": [],
+      "label_probability": 0.7012,
+      "has_cta": 0.0874,
+      "hook_score": 2.482,
+      "classify_notes": [],
+      "used_in_report": false
+    },
+    {
+      "shortcode": "Dera9M_RqYl",
+      "url": "https://www.instagram.com/reel/Dera9M_RqYl/",
+      "account": "digidir_",
+      "rank": 8,
+      "score": 0.4294,
+      "score_basis": "views",
+      "flags": [],
+      "views": 2077,
+      "likes": 17,
+      "comments": 3,
+      "engagement_rate": 0.009629272989889264,
+      "age_days": 31,
+      "caption": "Comment 😂😂 if you smiled, or 💀 if you’re HR’s favourite! 👀👇\n.\n.\n.\n.\noffice humour, HR memes, corporate life, office comedy, workplace humour, funny office reels, employee reactions, HR vs employees, corporate memes, relatable office moments, office culture, work besties, funny workplace videos, Indian office culture, DigiDir, digital marketing agency, corporate life, Noida, Delhi NCR, Gurgaon/ Gurugram, Bangalore, Mumbai",
+      "transcript": "इक लादा मेरा देल ता वो लाबाला सिंबाल ता तुजी से में ता",
+      "transcript_status": "ok",
+      "language": "hi",
+      "label": "other",
+      "categories": [],
+      "label_probability": 0.9936,
+      "has_cta": 0.2767,
+      "hook_score": 2.384,
+      "classify_notes": [
+        "not_marketing"
+      ],
+      "used_in_report": false
+    }
+  ],
+  "educational_report": {
+    "category": "educational",
+    "reels_analysed": 3,
+    "accounts_covered": [
+      "digistreet.media"
+    ],
+    "top_examples": [
+      {
+        "shortcode": "DfwrX3XBlpj",
+        "account": "digistreet.media",
+        "url": "https://www.instagram.com/reel/DfwrX3XBlpj/",
+        "score": 6.08,
+        "views": 1741,
+        "flags": [],
+        "why_it_worked": "The reel likely performed well because it highlights the importance of matching the right influencer with the right audience, creating a clear value proposition for the brand."
+      },
+      {
+        "shortcode": "DfmK3FDM15U",
+        "account": "digistreet.media",
+        "url": "https://www.instagram.com/reel/DfmK3FDM15U/",
+        "score": 1.496,
+        "views": 606,
+        "flags": [
+          "unverified"
+        ],
+        "why_it_worked": "The use of relatable language and a clear call-to-action in the caption and transcript likely resonated with the audience and encouraged engagement."
+      },
+      {
+        "shortcode": "DdjRCE3PXRO",
+        "account": "digistreet.media",
+        "url": "https://www.instagram.com/reel/DdjRCE3PXRO/",
+        "score": 0.938,
+        "views": 1032,
+        "flags": [],
+        "why_it_worked": "The reel likely performed well because it provided a unique and engaging perspective on creativity in marketing, resonating with the target audience."
+      }
+    ],
+    "limitations": [
+      "No educational reels found for digidir_.",
+      "Likes hidden, views not cross-checked: DfmK3FDM15U.",
+      "Both educational and promotional, so also in the other report: DfwrX3XBlpj."
+    ],
+    "themes": [
+      "Finding the Right Influencer for Your Brand",
+      "SEO strategy and execution",
+      "Creativity in marketing"
+    ],
+    "hook_patterns": [
+      "Views don't always mean sales!",
+      "SEO isn’t magic. It’s strategy, consistency, and the right execution.",
+      "Marketing has never been just about being seen, but about being understood, remembered, and creating meaningful connections."
+    ],
+    "content_structure": "Nano to Micro influencers, we make every collaboration count -> Want to make your next influencer campaign smarter? Introduction -> Exploring the RISE Framework -> Human-first approach -> Conclusion",
+    "cta_patterns": [
+      "DM “INFLUENCER”",
+      "Comment 'SEO' to get a free SEO check",
+      "Follow DigiStreet Media for more creative marketing strategies"
+    ],
+    "format_notes": [
+      "36.3s, hi, true, true",
+      "34.5s, hi, true, false",
+      "143.3s, hi, true, false"
+    ],
+    "opportunities_for_linkup": [
+      "Linkup Social: How to Choose the Right Influencer for Your Brand",
+      "Linkup Social: SEO Strategy for Better Results",
+      "Linkup Web: Creating a Human-Centered Marketing Approach"
+    ]
+  },
+  "promotional_report": {
+    "category": "promotional",
+    "reels_analysed": 4,
+    "accounts_covered": [
+      "digidir_",
+      "digistreet.media"
+    ],
+    "top_examples": [
+      {
+        "shortcode": "DfwrX3XBlpj",
+        "account": "digistreet.media",
+        "url": "https://www.instagram.com/reel/DfwrX3XBlpj/",
+        "score": 6.08,
+        "views": 1741,
+        "flags": [],
+        "why_it_worked": "the reel's focus on matching the right audience and creators likely resonated with DigiStreet's target audience, resulting in a high-performing campaign"
+      },
+      {
+        "shortcode": "De4CWcAMTnI",
+        "account": "digistreet.media",
+        "url": "https://www.instagram.com/reel/De4CWcAMTnI/",
+        "score": 1.423,
+        "views": 1039,
+        "flags": [],
+        "why_it_worked": "The reel's nostalgic and celebratory tone likely appealed to the account's audience, making it a top-performing post."
+      },
+      {
+        "shortcode": "DfZ2sy7xlr4",
+        "account": "digidir_",
+        "url": "https://www.instagram.com/reel/DfZ2sy7xlr4/",
+        "score": 1.0,
+        "views": 3132,
+        "flags": [],
+        "why_it_worked": "The festive season is officially here, and we’re bringing our own little sparkle to the celebrations."
+      },
+      {
+        "shortcode": "DfMCqp2MxIt",
+        "account": "digistreet.media",
+        "url": "https://www.instagram.com/reel/DfMCqp2MxIt/",
+        "score": 0.701,
+        "views": 426,
+        "flags": [],
+        "why_it_worked": "The reel likely performed well for its account because it effectively highlighted the importance of a website in converting visitors into potential customers, which is a key aspect of digital marketing."
+      }
+    ],
+    "limitations": [
+      "2 reel(s) had no usable speech and were judged from the caption only.",
+      "Both educational and promotional, so also in the other report: DfwrX3XBlpj, DfMCqp2MxIt."
+    ],
+    "themes": [
+      "finding the right influencer for your brand",
+      "StreetRecharge 2026 celebration",
+      "Diwali office celebrations",
+      "Website Design and Development",
+      "Different streets, same crazy squad!"
+    ],
+    "hook_patterns": [
+      "views don't always mean sales",
+      "Different streets, same crazy squad!",
+      "We’re swapping deadlines for diyas, meetings for mithai, and work mode for all things festive!",
+      "A great website builds credibility, enhances user experience and turns visitors into potential customers.",
+      "Different streets, same crazy squad!"
+    ],
+    "content_structure": "introduction -> explaining the problem -> introducing DigiStreet's approach -> call-to-action",
+    "cta_patterns": [
+      "DM 'INFLUENCER' to create a smarter influencer campaign",
+      "Follow us for more behind-the-scenes content!",
+      "Let the Diwali festivities begin!",
+      "Get your FREE Website Review",
+      "DM 'INFLUENCER' to create a smarter influencer campaign"
+    ],
+    "format_notes": [
+      "36.3, hi, true",
+      "43.3, en, false",
+      "7.8, en, false",
+      "37.5, hi, true",
+      "36.3, hi, true"
+    ],
+    "opportunities_for_linkup": [
+      "Linkup Social: Leveraging Influencer Marketing for Brand Success",
+      "Linkup Social: Celebrating the Magic of Teamwork and Creativity",
+      "Linkup Finserv: Bringing Festive Cheer to Your Financial Journey",
+      "Linkup Web: Designing a Website that Turns Visitors into Customers",
+      "Linkup Legal: Navigating the Complexities of Influencer Marketing"
+    ]
+  },
+  "errors": []
+}

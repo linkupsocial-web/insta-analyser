@@ -1,0 +1,17 @@
+[project]
+name = "insta-reel-content-study-automation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "crawl4ai>=0.9.5",
+    "fastapi>=0.165.0",
+    "faster-whisper>=1.2.1",
+    "langchain-ollama>=1.1.0",
+    "langgraph>=1.2.22",
+    "ollama>=0.6.3",
+    "python-dotenv>=1.2.4",
+    "uvicorn[standard]>=0.54.0",
+    "yt-dlp>=2026.10.26",
+]

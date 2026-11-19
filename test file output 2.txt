@@ -1,0 +1,150 @@
+(insta-reel-content-study-automation) mridulbrahmbhatt@Mriduls-MacBook-Air insta_analyser % uv run python test_analyser.py live
+[INIT].... → Crawl4AI 0.9.5 
+[FETCH]... ↓ https://www.instagram.com/digistreet.media/reels/                                                    | ✓ | ⏱: 10.05s 
+[SCRAPE].. ◆ https://www.instagram.com/digistreet.media/reels/                                                    | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.instagram.com/digistreet.media/reels/                                                    | ✓ | ⏱: 10.10s 
+[FETCH]... ↓ https://www.instagram.com/digidir_/reels/                                                            | ✓ | ⏱: 9.84s 
+[SCRAPE].. ◆ https://www.instagram.com/digidir_/reels/                                                            | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.instagram.com/digidir_/reels/                                                            | ✓ | ⏱: 9.89s 
+-- discover_step done (99s)
+-- rank_step done (99s)
+[2026-11-19 12:00:19.801] [ctranslate2] [thread 558750] [warning] Tip: experimental MPS backend is available and often 2x+ faster than CPU on Apple Silicon (varies by workload and hardware). Try device="mps".
+[1/15] digistreet.media DfwrX3XBlpj: ok (39 words)
+[2/15] digistreet.media DfmK3FDM15U: ok (84 words)
+[3/15] digistreet.media De4CWcAMTnI: music_or_lyrics (20 words) [no_vad_pass]
+[4/15] digistreet.media DfemwUyMQX5: music_or_lyrics (14 words) [no_vad_pass]
+[5/15] digistreet.media DdjRCE3PXRO: ok (228 words) [low_confidence]
+[6/15] digistreet.media DfemdbvsaBT: empty (1 words) [no_vad_pass, low_confidence]
+[7/15] digistreet.media DfMCqp2MxIt: ok (80 words)
+[8/15] digidir_ Dfrg5PQxuE0: ok (23 words) [no_vad_pass]
+[9/15] digidir_ DfR-1inRZ-z: ok (47 words)
+[10/15] digidir_ DfUiFqXxpDo: empty (0 words) [remapped_from_urdu]
+[11/15] digidir_ DfARwIORelz: ok (26 words) [no_vad_pass]
+[12/15] digidir_ DfZ2sy7xlr4: empty (3 words)
+[13/15] digidir_ DfUvxsMuhiG: empty (2 words)
+[14/15] digidir_ DfYvhftxv59: ok (30 words)
+[15/15] digidir_ Dera9M_RqYl: ok (13 words)
+-- transcribe_step done (607s)
+[1/15] digistreet.media DfwrX3XBlpj: educational (educ=0.57 prom=0.43 othe=0.00, fits=0.9993) [mixed]
+[2/15] digistreet.media DfmK3FDM15U: educational (educ=0.94 prom=0.05 othe=0.00, fits=0.9983)
+[3/15] digistreet.media De4CWcAMTnI: promotional (educ=0.03 prom=0.82 othe=0.15, fits=0.9421) [caption_only]
+[4/15] digistreet.media DfemwUyMQX5: other (educ=0.08 prom=0.16 othe=0.77, fits=0.6701) [caption_only]
+[5/15] digistreet.media DdjRCE3PXRO: educational (educ=0.99 prom=0.01 othe=0.01, fits=0.9761)
+[6/15] digistreet.media DfemdbvsaBT: other (educ=0.18 prom=0.56 othe=0.26, fits=0.9614) [caption_only, low_probability]
+[7/15] digistreet.media DfMCqp2MxIt: promotional (educ=0.39 prom=0.61 othe=0.00, fits=0.995) [mixed]
+[8/15] digidir_ Dfrg5PQxuE0: other (educ=0.00 prom=0.00 othe=1.00, fits=0.0504) [not_marketing]
+[9/15] digidir_ DfR-1inRZ-z: other (educ=0.00 prom=0.02 othe=0.98, fits=0.1484) [not_marketing]
+[10/15] digidir_ DfUiFqXxpDo: other (educ=0.14 prom=0.02 othe=0.83, fits=0.1233) [caption_only, not_marketing]
+[11/15] digidir_ DfARwIORelz: other (educ=0.13 prom=0.08 othe=0.79, fits=0.9404)
+[12/15] digidir_ DfZ2sy7xlr4: promotional (educ=0.01 prom=0.71 othe=0.29, fits=0.9895) [caption_only]
+[13/15] digidir_ DfUvxsMuhiG: other (educ=0.02 prom=0.43 othe=0.56, fits=0.8834) [caption_only]
+[14/15] digidir_ DfYvhftxv59: other (educ=0.04 prom=0.25 othe=0.70, fits=0.8331)
+[15/15] digidir_ Dera9M_RqYl: other (educ=0.00 prom=0.01 othe=0.99, fits=0.0096) [not_marketing]
+-- classify_step done (617s)
+-- report_educational_step done (669s)
+-- report_promotional_step done (696s)
+-- assemble_step done (696s)
+
+======================================================================
+ACCOUNTS
+======================================================================
+digistreet.media     ok       found=12 ranked=7 educational=4 promotional=3
+digidir_             ok       found=12 ranked=8 educational=0 promotional=1
+
+======================================================================
+SELECTED REELS
+======================================================================
+* digistreet.media   #1 DfwrX3XBlpj   score=6.08   speech=ok               mixed        p=0.57  
+* digistreet.media   #2 DfmK3FDM15U   score=1.50   speech=ok               educational  p=0.94  unverified
+* digistreet.media   #3 De4CWcAMTnI   score=1.42   speech=music_or_lyrics  promotional  p=0.82  
+  digistreet.media   #4 DfemwUyMQX5   score=1.40   speech=music_or_lyrics  other        p=0.77  unverified
+* digistreet.media   #5 DdjRCE3PXRO   score=0.94   speech=ok               educational  p=0.99  
+  digistreet.media   #6 DfemdbvsaBT   score=0.83   speech=empty            other        p=0.56  
+* digistreet.media   #7 DfMCqp2MxIt   score=0.70   speech=ok               mixed        p=0.61  
+  digidir_           #1 Dfrg5PQxuE0   score=5.92   speech=ok               other        p=1.00  
+  digidir_           #2 DfR-1inRZ-z   score=2.01   speech=ok               other        p=0.98  
+  digidir_           #3 DfUiFqXxpDo   score=1.66   speech=empty            other        p=0.83  
+  digidir_           #4 DfARwIORelz   score=1.13   speech=ok               other        p=0.79  possibly_inflated
+* digidir_           #5 DfZ2sy7xlr4   score=1.00   speech=empty            promotional  p=0.71  
+  digidir_           #6 DfUvxsMuhiG   score=0.90   speech=empty            other        p=0.56  
+  digidir_           #7 DfYvhftxv59   score=0.66   speech=ok               other        p=0.70  
+  digidir_           #8 Dera9M_RqYl   score=0.43   speech=ok               other        p=0.99  
+  (* = used in a report)
+
+======================================================================
+EDUCATIONAL REPORT  (3 reels, accounts: digistreet.media)
+======================================================================
+themes:
+  - Finding the Right Influencer for Your Brand
+  - SEO strategy and execution
+  - Creativity in marketing
+hook_patterns:
+  - Views don't always mean sales!
+  - SEO isn’t magic. It’s strategy, consistency, and the right execution.
+  - Marketing has never been just about being seen, but about being understood, remembered, and creating meaningful connections.
+cta_patterns:
+  - DM “INFLUENCER”
+  - Comment 'SEO' to get a free SEO check
+  - Follow DigiStreet Media for more creative marketing strategies
+format_notes:
+  - 36.3s, hi, true, true
+  - 34.5s, hi, true, false
+  - 143.3s, hi, true, false
+opportunities_for_linkup:
+  - Linkup Social: How to Choose the Right Influencer for Your Brand
+  - Linkup Social: SEO Strategy for Better Results
+  - Linkup Web: Creating a Human-Centered Marketing Approach
+content_structure: Nano to Micro influencers, we make every collaboration count -> Want to make your next influencer campaign smarter? Introduction -> Exploring the RISE Framework -> Human-first approach -> Conclusion
+example DfwrX3XBlpj (digistreet.media, score 6.08): The reel likely performed well because it highlights the importance of matching the right influencer with the right audience, creating a clear value proposition for the brand.
+example DfmK3FDM15U (digistreet.media, score 1.496): The use of relatable language and a clear call-to-action in the caption and transcript likely resonated with the audience and encouraged engagement.
+example DdjRCE3PXRO (digistreet.media, score 0.938): The reel likely performed well because it provided a unique and engaging perspective on creativity in marketing, resonating with the target audience.
+limitation: No educational reels found for digidir_.
+limitation: Likes hidden, views not cross-checked: DfmK3FDM15U.
+limitation: Both educational and promotional, so also in the other report: DfwrX3XBlpj.
+
+======================================================================
+PROMOTIONAL REPORT  (4 reels, accounts: digidir_, digistreet.media)
+======================================================================
+themes:
+  - finding the right influencer for your brand
+  - StreetRecharge 2026 celebration
+  - Diwali office celebrations
+  - Website Design and Development
+  - Different streets, same crazy squad!
+hook_patterns:
+  - views don't always mean sales
+  - Different streets, same crazy squad!
+  - We’re swapping deadlines for diyas, meetings for mithai, and work mode for all things festive!
+  - A great website builds credibility, enhances user experience and turns visitors into potential customers.
+  - Different streets, same crazy squad!
+cta_patterns:
+  - DM 'INFLUENCER' to create a smarter influencer campaign
+  - Follow us for more behind-the-scenes content!
+  - Let the Diwali festivities begin!
+  - Get your FREE Website Review
+  - DM 'INFLUENCER' to create a smarter influencer campaign
+format_notes:
+  - 36.3, hi, true
+  - 43.3, en, false
+  - 7.8, en, false
+  - 37.5, hi, true
+  - 36.3, hi, true
+opportunities_for_linkup:
+  - Linkup Social: Leveraging Influencer Marketing for Brand Success
+  - Linkup Social: Celebrating the Magic of Teamwork and Creativity
+  - Linkup Finserv: Bringing Festive Cheer to Your Financial Journey
+  - Linkup Web: Designing a Website that Turns Visitors into Customers
+  - Linkup Legal: Navigating the Complexities of Influencer Marketing
+content_structure: introduction -> explaining the problem -> introducing DigiStreet's approach -> call-to-action
+example DfwrX3XBlpj (digistreet.media, score 6.08): the reel's focus on matching the right audience and creators likely resonated with DigiStreet's target audience, resulting in a high-performing campaign
+example De4CWcAMTnI (digistreet.media, score 1.423): The reel's nostalgic and celebratory tone likely appealed to the account's audience, making it a top-performing post.
+example DfZ2sy7xlr4 (digidir_, score 1.0): The festive season is officially here, and we’re bringing our own little sparkle to the celebrations.
+example DfMCqp2MxIt (digistreet.media, score 0.701): The reel likely performed well for its account because it effectively highlighted the importance of a website in converting visitors into potential customers, which is a key aspect of digital marketing.
+limitation: 2 reel(s) had no usable speech and were judged from the caption only.
+limitation: Both educational and promotional, so also in the other report: DfwrX3XBlpj, DfMCqp2MxIt.
+
+Saved discovery_debug/analyser_live_result.json
+Saved discovery_debug/reports/educational_report.md
+Saved discovery_debug/reports/educational_report.json
+Saved discovery_debug/reports/promotional_report.md
+Saved discovery_debug/reports/promotional_report.json

@@ -1,0 +1,140 @@
+(insta-reel-content-study-automation) mridulbrahmbhatt@Mriduls-MacBook-Air insta_analyser % uv run python test_analyser.py live
+[INIT].... → Crawl4AI 0.9.5 
+========================================================================
+  Crawl4AI Cloud is live: the same crawler, hosted.
+  Free credit to start, no card. Soft launch: prices can change, what you buy stays yours.
+  Get a key in 10 seconds:  https://crawl4ai.com/?ref=pip
+  The library stays open source, forever.   Hide this banner: CRAWL4AI_NO_CLOUD_NOTICE=1
+========================================================================
+[FETCH]... ↓ https://www.instagram.com/digistreet.media/reels/                                                    | ✓ | ⏱: 9.84s 
+[SCRAPE].. ◆ https://www.instagram.com/digistreet.media/reels/                                                    | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.instagram.com/digistreet.media/reels/                                                    | ✓ | ⏱: 9.89s 
+[FETCH]... ↓ https://www.instagram.com/digidir_/reels/                                                            | ✓ | ⏱: 9.86s 
+[SCRAPE].. ◆ https://www.instagram.com/digidir_/reels/                                                            | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://www.instagram.com/digidir_/reels/                                                            | ✓ | ⏱: 9.90s 
+-- discover_step done (99s)
+-- rank_step done (99s)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-11-19 11:14:10.364] [ctranslate2] [thread 490414] [warning] Tip: experimental MPS backend is available and often 2x+ faster than CPU on Apple Silicon (varies by workload and hardware). Try device="mps".
+[1/15] digistreet.media DfwrX3XBlpj: ok (84 words) [script_retry, foreign_script_left]
+[2/15] digistreet.media DfmK3FDM15U: ok (84 words)
+[3/15] digistreet.media De4CWcAMTnI: music_or_lyrics (20 words) [no_vad_pass]
+[4/15] digistreet.media DfemwUyMQX5: music_or_lyrics (14 words) [no_vad_pass]
+[5/15] digistreet.media DdjRCE3PXRO: ok (244 words) [script_retry, foreign_script_left, low_confidence]
+[6/15] digistreet.media DfemdbvsaBT: empty (6 words) [no_vad_pass, low_confidence]
+[7/15] digistreet.media DfMCqp2MxIt: ok (81 words) [script_retry, foreign_script_left]
+[8/15] digidir_ Dfrg5PQxuE0: ok (23 words) [no_vad_pass]
+[9/15] digidir_ DfR-1inRZ-z: ok (48 words) [script_retry, foreign_script_left]
+[10/15] digidir_ DfUiFqXxpDo: empty (0 words) [remapped_from_urdu, script_retry]
+[11/15] digidir_ DfARwIORelz: ok (26 words) [no_vad_pass]
+[12/15] digidir_ DfZ2sy7xlr4: empty (3 words)
+[13/15] digidir_ DfUvxsMuhiG: empty (2 words) [script_retry, foreign_script_left]
+[14/15] digidir_ DfYvhftxv59: ok (30 words)
+[15/15] digidir_ Dera9M_RqYl: ok (13 words) [script_retry, foreign_script_left]
+-- transcribe_step done (873s)
+[1/15] digistreet.media DfwrX3XBlpj: other (educ=0.52 prom=0.47 othe=0.00, fits=0.9995) [low_probability]
+[2/15] digistreet.media DfmK3FDM15U: educational (educ=0.78 prom=0.22 othe=0.00, fits=0.9983)
+[3/15] digistreet.media De4CWcAMTnI: promotional (educ=0.03 prom=0.81 othe=0.16, fits=0.9369) [caption_only]
+[4/15] digistreet.media DfemwUyMQX5: other (educ=0.08 prom=0.16 othe=0.76, fits=0.6734) [caption_only]
+[5/15] digistreet.media DdjRCE3PXRO: educational (educ=1.00 prom=0.00 othe=0.00, fits=0.9792)
+[6/15] digistreet.media DfemdbvsaBT: other (educ=0.18 prom=0.55 othe=0.27, fits=0.9616) [caption_only, low_probability]
+[7/15] digistreet.media DfMCqp2MxIt: promotional (educ=0.30 prom=0.70 othe=0.00, fits=0.9967)
+[8/15] digidir_ Dfrg5PQxuE0: other (educ=0.00 prom=0.00 othe=1.00, fits=0.0488)
+[9/15] digidir_ DfR-1inRZ-z: other (educ=0.00 prom=0.02 othe=0.97, fits=0.1822)
+[10/15] digidir_ DfUiFqXxpDo: other (educ=0.17 prom=0.02 othe=0.81, fits=0.1384) [caption_only]
+[11/15] digidir_ DfARwIORelz: other (educ=0.11 prom=0.08 othe=0.81, fits=0.9428)
+[12/15] digidir_ DfZ2sy7xlr4: promotional (educ=0.01 prom=0.70 othe=0.30, fits=0.9886) [caption_only]
+[13/15] digidir_ DfUvxsMuhiG: other (educ=0.02 prom=0.43 othe=0.55, fits=0.8813) [caption_only]
+[14/15] digidir_ DfYvhftxv59: other (educ=0.04 prom=0.26 othe=0.69, fits=0.8401)
+[15/15] digidir_ Dera9M_RqYl: other (educ=0.00 prom=0.00 othe=0.99, fits=0.0096)
+-- classify_step done (882s)
+-- report_educational_step done (920s)
+-- report_promotional_step done (937s)
+-- assemble_step done (937s)
+
+======================================================================
+ACCOUNTS
+======================================================================
+digistreet.media     ok       found=12 ranked=7 educational=2 promotional=2
+digidir_             ok       found=12 ranked=8 educational=0 promotional=1
+
+======================================================================
+SELECTED REELS
+======================================================================
+  digistreet.media   #1 DfwrX3XBlpj   score=6.08   speech=ok               other        p=0.52  
+* digistreet.media   #2 DfmK3FDM15U   score=1.50   speech=ok               educational  p=0.78  unverified
+* digistreet.media   #3 De4CWcAMTnI   score=1.42   speech=music_or_lyrics  promotional  p=0.81  
+  digistreet.media   #4 DfemwUyMQX5   score=1.40   speech=music_or_lyrics  other        p=0.76  unverified
+* digistreet.media   #5 DdjRCE3PXRO   score=0.94   speech=ok               educational  p=1.00  
+  digistreet.media   #6 DfemdbvsaBT   score=0.83   speech=empty            other        p=0.55  
+* digistreet.media   #7 DfMCqp2MxIt   score=0.70   speech=ok               promotional  p=0.70  
+  digidir_           #1 Dfrg5PQxuE0   score=5.92   speech=ok               other        p=1.00  
+  digidir_           #2 DfR-1inRZ-z   score=2.01   speech=ok               other        p=0.97  
+  digidir_           #3 DfUiFqXxpDo   score=1.66   speech=empty            other        p=0.81  
+  digidir_           #4 DfARwIORelz   score=1.13   speech=ok               other        p=0.81  possibly_inflated
+* digidir_           #5 DfZ2sy7xlr4   score=1.00   speech=empty            promotional  p=0.70  
+  digidir_           #6 DfUvxsMuhiG   score=0.90   speech=empty            other        p=0.55  
+  digidir_           #7 DfYvhftxv59   score=0.66   speech=ok               other        p=0.69  
+  digidir_           #8 Dera9M_RqYl   score=0.43   speech=ok               other        p=0.99  
+  (* = used in a report)
+
+======================================================================
+EDUCATIONAL REPORT  (2 reels, accounts: digistreet.media)
+======================================================================
+themes:
+  - SEO strategy and its importance
+  - creative marketing
+hook_patterns:
+  - It's strategy, consistency, and the right execution.
+  - Marketing has never been just about being seen, it's about being understood, remembered, and creating meaningful connections.
+cta_patterns:
+  - Comment 'SEO'
+  - follow
+format_notes:
+  - duration_s: 34.5-143.3
+  - language: hi
+  - has_speech: true
+opportunities_for_linkup:
+  - Linkup Social: SEO strategy and its importance
+  - Linkup Social: creative marketing
+content_structure: Caption -> Transcript
+example DfmK3FDM15U (digistreet.media, score 1.496): The reel likely performed well because it provided actionable tips and a clear call-to-action, making it informative and engaging for the audience.
+example DdjRCE3PXRO (digistreet.media, score 0.938): the reel likely performed well for its account because it emphasized the importance of creativity and human connection in marketing
+limitation: No educational reels found for digidir_.
+limitation: Only 2 educational reel(s) analysed; treat patterns as early signals.
+limitation: Likes hidden, views not cross-checked: DfmK3FDM15U.
+
+======================================================================
+PROMOTIONAL REPORT  (3 reels, accounts: digidir_, digistreet.media)
+======================================================================
+themes:
+  - StreetRecharge 2026
+  - Diwali office celebrations
+  - Your website is your brand’s digital first impression
+hook_patterns:
+  - Different streets, same crazy squad!
+  - We’re swapping deadlines for diyas, meetings for mithai, and work mode for all things festive!
+  - Make it count
+cta_patterns:
+  - Follow
+  - Let the Diwali festivities begin!
+  - Get your FREE Website Review
+format_notes:
+  - en
+  - 43.3
+  - false
+  - hi
+  - 37.5
+opportunities_for_linkup:
+  - Linkup Web: StreetRecharge 2026
+  - Linkup Social: Diwali office celebrations
+  - Linkup Legal: Your website is your brand’s digital first impression
+  - Linkup Finserv: Website optimization for financial services
+  - Linkup Social: Free website review for small businesses
+content_structure: Caption -> No transcript -> No additional content, Caption -> transcript
+example De4CWcAMTnI (digistreet.media, score 1.423): The use of emojis and a catchy phrase grabbed attention and aligned with the brand's playful tone, making it a relatable and engaging experience for the audience.
+example DfZ2sy7xlr4 (digidir_, score 1.0): The reel likely performed well for its account because it effectively incorporated festive elements into the office setting, making it relatable and engaging for the audience.
+example DfMCqp2MxIt (digistreet.media, score 0.701): the use of a clear and direct call-to-action, along with a relevant and attention-grabbing hook, likely performed well for its account
+limitation: 2 reel(s) had no usable speech and were judged from the caption only.
+
+Saved discovery_debug/analyser_live_result.json

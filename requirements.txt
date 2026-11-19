@@ -1,0 +1,25 @@
+# Instagram Reel Analyser - Python dependencies (Python >= 3.11)
+#
+# Install with uv (adds them to pyproject.toml):
+#   uv add crawl4ai fastapi faster-whisper langchain-ollama langgraph ollama python-dotenv "uvicorn[standard]" yt-dlp
+# or straight from this file:
+#   uv add -r requirements.txt
+#
+# One-time setup outside Python:
+#   uv run crawl4ai-setup          (browser for Crawl4AI)
+#   brew install ffmpeg            (audio conversion for Whisper)
+#   ollama pull tev1:0.8b          (classifier, Ollama >= 0.35)
+#   ollama pull llama3.2           (report LLM, testing only)
+# Optional, only when switching the report LLM to Groq:
+#   uv add langchain-groq
+
+crawl4ai>=0.9.5
+fastapi>=0.165.0
+faster-whisper>=1.2.1
+langchain-ollama>=1.1.0
+langgraph>=1.2.22
+ollama>=0.6.3
+python-dotenv>=1.2.4
+uvicorn[standard]>=0.54.0
+yt-dlp>=2026.10.26
+
